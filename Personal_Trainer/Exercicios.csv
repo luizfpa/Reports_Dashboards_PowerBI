@@ -1,0 +1,30 @@
+ID_Tipo_Treino,ID_Exercicio,Nome_Exercicio,Grupo_Muscular,Descanso (segundos)
+1,1,Supino Reto,Peitoral,60
+1,2,Crucifixo Inclinado,Peitoral,45
+1,3,Desenvolvimento com Barra,Ombros,60
+1,4,Agachamento com Barra,Pernas,90
+1,5,Rosca Direta,Biceps,45
+2,6,Flexao de Braco,Peitoral,30
+2,7,Abdominal Tradicional,Abdomen,30
+2,8,Prancha Isometrica,Abdomen,45
+2,9,Afundo,Pernas,60
+3,10,Deadlift,Costas,120
+3,11,Puxada Aberta na Polia,Costas,60
+3,12,Elevacao Lateral,Ombros,30
+3,13,Remada Unilateral com Halteres,Costas,60
+1,14,Crossover no Cabo,Peitoral,45
+1,15,Pullover com Halter,Peitoral,60
+1,16,Encolhimento de Ombros com Barra,Ombros,45
+1,17,Elevacao Frontal com Halteres,Ombros,30
+1,18,Leg Press,Pernas,90
+1,19,Agachamento Bulgaro,Pernas,60
+1,20,Rosca Concentrada,Biceps,45
+1,21,Rosca Martelo,Biceps,45
+2,22,Ab Wheel,Abdomen,60
+2,23,Prancha Lateral,Abdomen,45
+2,24,Flexao Diamante,Peitoral,30
+2,25,Mergulhos (Dips) nas Paralelas,Peitoral,60
+3,26,Remada Curvada com Barra,Costas,60
+3,27,Puxada Fechada na Polia,Costas,60
+3,28,Face Pull no Cabo,Costas,45
+3,29,Crucifixo Invertido com Halteres,Ombros,45
